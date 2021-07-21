@@ -3,8 +3,6 @@ Professor Paulo Victor <br>
 E-mail: paulo.gomes@cefet-rj.br <br>
 CEFET-RJ Campus Angra dos Reis Sala 6E
 
-
-
 ## Ementa:
 
 1. [Diferenciação de Vetores](DinAp01.ipynb)
@@ -16,20 +14,15 @@ CEFET-RJ Campus Angra dos Reis Sala 6E
 7. [Extraindo Informações das Equações de Movimento](DinAp07.ipynb)
 8. [Dinâmica Computacional](DinAp08.ipynb)
 
-
-
 ## Objetivos Gerais:
 
 Apresentar a modelagem, análise e simulação da dinâmica de sistemas mecânicos de vários corpos por meio do Método de Kane, permitindo ao aluno o estudo da dinâmica de sistemas complexos.
-
-
 
 ## Bibliografia Básica:
 
 * ROITHMAYR, Carlos M.; HODGES, Dewey H. Dynamics: Theory and Application of Kane’s Method. Cambridge University Press, 2016.
 * [KANE, Thomas R.; LEVINSON, David A. Dynamics, theory and applications. McGraw Hill, 1985.](https://www.ecommons.cornell.edu/handle/1813/638)
 * [KANE, Thomas R.; LIKINS, Peter W.; LEVINSON, David A. Spacecraft dynamics. New York, McGraw-Hill Book Co, 1983.](https://ecommons.cornell.edu/handle/1813/637)
-
 
 
 ## Bibliografia Complementar:
@@ -41,18 +34,15 @@ Apresentar a modelagem, análise e simulação da dinâmica de sistemas mecânic
 
 ## Avaliação:
 
-2 Trabalhos em dupla
-
-
+Trabalhos
 
 
 ### Datas Importantes:
 
  * Período de trancamento
- > 01/02 a 20/02 \
- >01/03 a 27/05 
+ > 21/07 até 01/11
   
  * Avaliações:
- >P1: 26/03 \
- >P2: 14/05 \
- >P3: 28/05 
+ >P1: 10/09 <br>
+ >P2: 15/10 <br>
+ >P3: 05/11 
